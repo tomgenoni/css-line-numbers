@@ -1,5 +1,5 @@
 # CSS line numbers
-Add line numbers to code samples without JavaScript.
+Add [line numbers](https://tomgenoni.github.io/css-line-numbers/) to code samples without JavaScript. 
 
 ## Problem
 
