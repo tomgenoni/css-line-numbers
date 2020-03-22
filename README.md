@@ -17,7 +17,7 @@ But it’s nice to able to reference specific line numbers and all the options I
 
 ## Solution
 
-This approach uses some special characters to populate a `content` property. 
+This approach uses some special characters to populate a `content` property. Here's a screenshot of what it looks like when used with a syntax highligher.
 
 <img src="example.png" alt="CSS line number example" width="700" alt="Sreenshot of code example on genoni.dev">
 
