@@ -39,4 +39,4 @@ Use it with [Prism](https://prismjs.com/) or another syntax highlighter to incre
 ## Notes 
 
 1. This approach does not programmatically link line numbers with the code example. To provide an accessible experience you should provide more context when referencing a line number.
-2. You may need to adjust `padding-left` of the `code` block if you're using a large-ish font for the line-numbers. 
+2. You may need to increase the `--code-spacer` value if you're using a large-ish font for the line-numbers.
