@@ -15,7 +15,7 @@ But it’s nice to able to reference specific line numbers and all the options I
 
 ## Solution
 
-This approach is the result of a few hours playing around with the `content` property. 
+This approach uses some special characters to populate a `content` property. 
 
 <img src="example.png" alt="CSS line number example" width="700" >
 
