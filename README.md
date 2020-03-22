@@ -7,7 +7,7 @@ Markdown support for code blocks is simple and works well. Surround samples with
 
 ```css
 .car {
-	color: red;
+  color: red;
 }
 ```
 
@@ -17,7 +17,7 @@ But it’s nice to able to reference specific line numbers and all the options I
 
 This approach is the result of a few hours playing around with the `content` property. 
 
-![example](example.png)
+<img src="example.png" alt="CSS line number example" width="700" >
 
 ### Features
 
