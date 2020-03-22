@@ -1,5 +1,7 @@
 # CSS line numbers
-Add [line numbers](https://tomgenoni.github.io/css-line-numbers/) to code samples without JavaScript. 
+Add line numbers code samples without JavaScript. 
+
+[Example](https://tomgenoni.github.io/css-line-numbers/) 
 
 ## Problem
 
@@ -17,7 +19,7 @@ But it’s nice to able to reference specific line numbers and all the options I
 
 This approach uses some special characters to populate a `content` property. 
 
-<img src="example.png" alt="CSS line number example" width="700" >
+<img src="example.png" alt="CSS line number example" width="700" alt="Sreenshot of code example on genoni.dev">
 
 ### Features
 
