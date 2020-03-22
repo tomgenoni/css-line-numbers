@@ -1,5 +1,5 @@
 # CSS line numbers
-Add line numbers to code samples without JavasScript.
+Add line numbers to code samples without JavaScript.
 
 ## Problem
 
