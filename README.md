@@ -5,7 +5,7 @@ Add line numbers to code samples without JavaScript.
 
 ## Problem
 
-Markdown support for code blocks is simple and works well. Surround samples with three back ticks and the conversion works its magic.
+Markdown support for code blocks is great. Surround samples with three back ticks and the conversion works its magic.
 
 ```css
 .car {
