@@ -1,5 +1,5 @@
 # CSS line numbers
-Add line numbers to code samples without JavasScript.
+Add line numbers to code samples without JavaScript.
 
 ## Problem
 
@@ -7,7 +7,7 @@ Markdown support for code blocks is simple and works well. Surround samples with
 
 ```css
 .car {
-	color: red;
+  color: red;
 }
 ```
 
@@ -15,9 +15,9 @@ But it’s nice to able to reference specific line numbers and all the options I
 
 ## Solution
 
-This approach is the result of a few hours playing around with the `content` property. 
+This approach uses some special characters to populate a `content` property. 
 
-![example](example.png)
+<img src="example.png" alt="CSS line number example" width="700" >
 
 ### Features
 
@@ -27,8 +27,8 @@ This approach is the result of a few hours playing around with the `content` pro
 
 ## Usage
 
-1. Download the CSS.
-2. Adjust the variables as needed.
+1. Download [line-numbers.css](https://github.com/tomgenoni/css-line-numbers/blob/master/line-numbers.css).
+2. Adjust the variables as needed. 
 
 ### Recommended
 
@@ -36,5 +36,5 @@ Use it with [Prism](https://prismjs.com/) or another syntax highlighter to incre
 
 ## Notes 
 
-1. This approach does not programmatically link line numbers with  the code example. To provide an accessible experience you should provide more context when referencing a line number.
-2. 
+1. This approach does not programmatically link line numbers with the code example. To provide an accessible experience you should provide more context when referencing a line number.
+2. You may need to adjust `padding-left` of the `code` block if you're using a large-ish font for the line-numbers. 
